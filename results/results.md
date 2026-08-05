@@ -1,3 +1,4 @@
+
 # Analysis Results
 
 ## 1. Total Customers
@@ -9,6 +10,7 @@ There are 2000 customers in database.
 The database contains enough customer records for segmentation analysis.
 
 ![result](images/TotalCustomers.png)
+<img width="252" height="117" alt="TotalCustomers" src="https://github.com/user-attachments/assets/7c97c1c5-ab48-4a4e-b899-321eb980ee10" />
 ---
 
 ## 2. Average Customer Age
