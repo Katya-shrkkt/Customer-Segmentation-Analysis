@@ -8,7 +8,7 @@ There are 2000 customers in database.
 
 The database contains enough customer records for segmentation analysis.
 
-![result](images/TotalCustomers.png?raw=true)
+![result](images/TotalCustomers.png)
 ---
 
 ## 2. Average Customer Age
