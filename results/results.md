@@ -8,6 +8,7 @@ There are 2000 customers in database.
 
 The database contains enough customer records for segmentation analysis.
 
+![result](TotalCustomers.png)
 ---
 
 ## 2. Average Customer Age
@@ -18,6 +19,7 @@ Average customers age: 48.96 years
 
 the company's target audience mainly consist of customers around this age.
 
+![result](AveragecustomerAge.png)
 ---
 
 ## 3. Gender Distribution
@@ -30,6 +32,7 @@ the company's target audience mainly consist of customers around this age.
 This helps understand the gender composition of customers base.
 This suggests that the company's primary audience is womenб which may be useful when developing marketing campaigns and product recommendations.
 
+![result](GenderDistribution.png)
 ---
 
 ## 4. Profession With The Highest Spending Score
@@ -43,6 +46,7 @@ Average Spending Score: 52.94
 Cusomers in this profession tend to spend more than others.
 This information may help the business identify a valuable customer segment and develop targeted promotions or adjust its product assortment to better meet their needs.
 
+![result](ProfessionWuthTheHighestSpending.png)
 ---
 
 ## 5. Average Annual Income
@@ -52,8 +56,9 @@ Female average annual income: 110553.72
 
 ### Business Insight
 
-This provides a general understanding of customers' purchasing power.
+This provides a general understanding of customers' purchasing power. Additionally, the data shows that the spending difference between men and women is minimal, indicating that sales patterns are gender-independent.
 
+![result](AverageAnnualIncome.png)
 ---
 
 ## 6. Profession with the Highest Average Income
@@ -66,6 +71,7 @@ Average Income: 113770.13
 
 This profession represents the highest-income customer segment.
 
+![result](ProfessionWithTheHighestAverageIncome.png)
 ---
 
 
@@ -85,8 +91,9 @@ Summary:
 
 ### Business Insight
 
-The analysis helps identify whether larger families spend more or less on average.
+The analysis helps identify whether larger families spend more or less on average. According to the data, larger families demonstrate a lower average spend per transaction. The business could consider offering volume-based discounts or bulk-purchase promotions to this segment.
 
+![result](SpendingScoreFamilySize.png)
 ---
 
 ## 8. Top 10 Customers by Spending Score
@@ -97,6 +104,7 @@ The highest spending customers were identified.
 
 These customers may represent a valuable segment for loyalty programs and premium offers.
 
+![result](Top10BySpendingScore.png)
 ---
 
 ## 9. Top 10 Customers by Annual Income
@@ -107,6 +115,7 @@ The highest-income customers were identified.
 
 High-income customers may be suitable targets for premium products or services.
 
+![result](Top10ByAnnualIncome.png)
 ---
 
 # Overall Conclusion
